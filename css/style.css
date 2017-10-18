@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Sans:700i|Dosis');
+
+
+body{
+   padding:0;
+   font-family: 'Dosis', sans-serif;
+   background: #80BCA3;
+/*   margining:0;*/
+}
+
+#title{
+   font-family: 'Noto Sans', sans-serif;
+   font-size: 40px;
+   margin-left:12%;
+   margin-top:3%;
+}
+
+
+#description1{
+   font-family: 'Noto Sans', sans-serif;
+   font-size: 30px;
+   margin-left: 20px;
+
+}
+
+#description2{
+   font-family: 'Noto Sans', sans-serif;
+   font-size: 30px;
+   margin-left: 20px;
+
+}
+
+#description3{
+   font-family: 'Noto Sans', sans-serif;
+   font-size: 30px;
+   margin-left: 20px;
+
+}
+
+.abc{
+   background-color: #F6F0BC;
+   width: 19%;
+   margin-left: 38%;
+}
+
+.abcd{
+   background-color: #F6F0BC;
+   width: 25%;
+   margin-left: 35%;
+   margin-top:2%;
+   margin-bottom: 5%;
+}
+
+
+}
+
+
+#ajaxButton {
+   font-family: 'Noto Sans', sans-serif;
+   font-size: 20px;
+   margin-left: 50%;
+   margin-top: 3%;
+
+
+
+}
